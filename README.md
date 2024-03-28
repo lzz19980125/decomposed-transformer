@@ -3,7 +3,7 @@
 **Unofficial** Python implementation of the decomposed transformer algorithm:  
 Qin, Shuxin, et al. Decomposed transformer with frequency attention for multivariate time series anomaly detection. *2022 IEEE International Conference on Big Data (Big Data)*. IEEE, 2022. 
 
-**P.S. This method is for my personal use only！**
+**P.S. This implementation is solely for my personal exploration, and the results obtained should not be considered indicative of the outcomes reported in the original paper！**
 
 Official implementation：[DecomposedTransAD](https://github.com/shuxin-qin/DecomposedTransAD).
 
