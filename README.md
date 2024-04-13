@@ -11,7 +11,7 @@ Official implementation：[DecomposedTransAD](https://github.com/shuxin-qin/Deco
 
 1. Install Python 3.6, PyTorch >= 1.4.0. 
 
-2. Download data. You can obtain four benchmarks from [Google Cloud](https://drive.google.com/drive/folders/1KOQvV2nR6Y9tIkB4XELHA1CaV1F8LrZ6). **All the datasets are well pre-processed**. 
+2. Download data. You can obtain five benchmarks from [Google Cloud](https://drive.google.com/drive/folders/1KOQvV2nR6Y9tIkB4XELHA1CaV1F8LrZ6). **All the datasets are well pre-processed**. 
 
 ```
 bash ./scripts/SMD.sh
